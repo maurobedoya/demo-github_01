@@ -3,4 +3,4 @@ Este es un repositorio de prueba
 ---
 ## Qué hace
 
-'analisis.R'
+Este repositorio es una prueba para mostrar como funcionan los commits.
